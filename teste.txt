@@ -1,7 +1,7 @@
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 
-b
+a
 =======
-c
+a
 
 cccccccccccccccccccccccccccccccccccccccccc
