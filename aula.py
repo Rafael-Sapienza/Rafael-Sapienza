@@ -1,3 +1,3 @@
 for i in range(10):
-    print("hello not git")
+    print("hello git")
 
