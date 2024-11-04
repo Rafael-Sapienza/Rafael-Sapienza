@@ -1,4 +1,4 @@
 for i in range(10):
     print("jkl")
-    print("Aad")
-
+    print("Aadsfa")
+    print(11)
