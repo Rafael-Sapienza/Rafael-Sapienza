@@ -3,4 +3,7 @@ for i in range(10):
     print("Aadsfa")
     print(11)
     print(4)
-    print("5")
+    print("22")
+
+
+
