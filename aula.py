@@ -1,3 +1,2 @@
 for i in range(10):
-    print(1)
-    print(4)
+    print("d")
