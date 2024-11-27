@@ -1,3 +1,4 @@
 {
-    "git.path": "E:/git/bin/git.exe"
+    "git.enabled": true,
+    "git.path": "E:/git/bin/git.exe",
 }
